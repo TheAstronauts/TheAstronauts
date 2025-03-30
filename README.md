@@ -1,7 +1,7 @@
 # The Astronauts
 
 <div align="center">
-  <img src="frontend/src/assets/logo.png" alt="The Astronauts Logo" width="200" height="200"/>
+  <img src="https://raw.githubusercontent.com/TheAstronauts/TheAstronauts/master/frontend/src/assets/logo.png" alt="The Astronauts Logo" width="200" height="200"/>
 </div>
 
 <div align="center">
